@@ -1,4 +1,4 @@
-# Statistical Learning of Neuronal Functional Connectivity
+# Statistical learning of neuronal functional connectivity
 ============== README Description for MATLAB Code =============================
 
 This README describes the procedure for producing the numerical results presented in the paper:
